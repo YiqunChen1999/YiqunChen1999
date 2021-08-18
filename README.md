@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YiqunChen1999, a PhD candidate from University of Chinese Academy of Sciences. 
+- 👋 Hi, I’m @YiqunChen1999, a PhD candidate from Institution of Automation of Chinese Academay of Sciences. 
 - 👀 I’m interested in Computer Vision and AI.
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
